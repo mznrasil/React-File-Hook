@@ -1,0 +1,21 @@
+{
+  "name": "use-file",
+  "version": "1.0.0",
+  "description": "A custom hook for handling files in react",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "files",
+    "react",
+    "custom-hook"
+  ],
+  "author": "Rasil Maharjan",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
