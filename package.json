@@ -1,5 +1,5 @@
 {
-  "name": "use-file",
+  "name": "use-file-uploader",
   "version": "2.0.0",
   "description": "A custom hook for handling files in react",
   "main": "index.ts",
